@@ -1,5 +1,5 @@
 # BillingManagementSystem
-## Problem statement-- Standalone Billing Mangement Program for a Dress Retail store using JDBC.Once user enter product code, price has to fetch from DB Table.     After the Bill Produced, it has to be stored in DB Table.
+Problem statement-- Standalone Billing Mangement Program for a Dress Retail store using JDBC.Once user enter product code, price has to fetch from DB Table.     After the Bill Produced, it has to be stored in DB Table.
 ## Models-:
 •	User.
 •	Admin.
